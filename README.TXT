@@ -1,30 +1,5 @@
-TechSupport - the DodgySoft Technical support system.
+file data in 3 classes each with their respective constructors, it has to be compiled from "Support System" then in its start constructor.
+the information of your database is "responder"
+it is a beta in bluej connections to html and css is in development process.
 
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Fourth edition
-   David J. Barnes and Michael Kolling
-   Pearson Education, 2008
-
-This project is discussed in chapter 5.
-
-
-This project implements a technical support system for customers of the 
-DodgySoft software company. Users can describe their software problems and 
-get advice instantly!
-
-The idea is based on Eliza - a famous program described by Joseph Weizenbaum 
-in 1966. (Do a web search for "Eliza" and "Weizenbaum" if you want to know 
-more about this.)
-
-In fact, it is much more primitive than Eliza. But that's enough to match the 
-quality of many software companies' technical support advice...  ;-)
-
-To start this program, create a SupportSystem object and execute the "start" 
-method.
-
-Then start describing your problem by typing in the terminal window.
-
-The purpose of this project is to demonstrate and study library classes, such 
-as ArrayList, HashMap, HashSet, and Random.
+ALL methods by book jbarnes for bluej
