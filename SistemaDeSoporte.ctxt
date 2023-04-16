@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SistemaDeSoporte
+comment0.text=\r\n\ Esta\ clase\ implementa\ un\ sistema\ de\ soporte\ t\u00E9cnico.\ Es\ la\ clase\ de\r\n\ mayor\ nivel\ del\ proyecto.\ El\ sistema\ de\ soporte\ se\ comunica\ mediante\r\n\ la\ terminal\ de\ texto\ con\ entradas\ y\ salidas\ en\ ella.\r\n\ \r\n\ La\ clase\ usa\ un\ objeto\ de\ clase\ LectorDeEntrada\ para\ leer\ las\ entradas\r\n\ del\ usuario\ y\ un\ objecto\ de\ clase\ Contestador\ para\ generar\ las\ \r\n\ respuestas.\ Contiene\ un\ ciclo\ que\ repetidamente\ lee\ las\ entradas\ y\r\n\ genera\ las\ respuestas\ hasta\ que\ el\ usuario\ decide\ salir.\r\n\ \r\n\ @author\ \ \ \ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ \ \ \ 1.0\r\n
+comment1.params=
+comment1.target=SistemaDeSoporte()
+comment1.text=\r\n\ Crea\ un\ sistema\ de\ soporte\ t\u00E9cnico.\r\n
+comment2.params=
+comment2.target=void\ iniciar()
+comment2.text=\r\n\ Inicia\ el\ sistema\ de\ soporte\ t\u00E9cnico.\ Imprimir\u00E1\ un\ mensaje\ de\ bienvenida\r\n\ y\ establece\ un\ di\u00E1logo\ con\ el\ usuario\ hasta\ que\ el\ usuario\ lo\ finalice.\r\n
+comment3.params=
+comment3.target=void\ imprimirBienvenida()
+comment3.text=\r\n\ Imprime\ un\ mensaje\ de\ Bienvenida\ en\ la\ pantalla\r\n
+comment4.params=
+comment4.target=void\ imprimirDespedida()
+comment4.text=\r\n\ Imprime\ un\ mensaje\ de\ Despedida\ en\ la\ pantalla\r\n
+numComments=5

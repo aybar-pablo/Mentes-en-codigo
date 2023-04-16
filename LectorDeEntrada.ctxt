@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LectorDeEntrada
+comment0.text=\r\n\ LectorDeEntrada\ lee\ el\ texto\ escrito\ en\ el\ terminal\ de\ texto\ estandar.\r\n\ El\ texto\ tipeado\ es\ dividido\ en\ palabras,\ y\ se\ provee\ un\ set\ de\ palabras.\r\n\ \r\n\ @author\ \ \ \ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ \ \ \ 1.0\r\n
+comment1.params=
+comment1.target=LectorDeEntrada()
+comment1.text=\r\n\ Crea\ un\ nuevo\ LectorDeEntrada\ que\ lee\ texto\ desde\ el\ terminal\ de\ texto.\r\n
+comment2.params=
+comment2.target=java.util.HashSet\ getEntrada()
+comment2.text=\r\n\ Lee\ una\ linea\ de\ texto\ desde\ la\ entrada\ estandar\ (el\ terminal\ de\ texto)\r\n\ y\ retorna\ como\ un\ conjunto\ de\ palabras.\r\n\r\n\ @return\ \ Un\ conjunto\ de\ cademas,\ en\ el\ que\ cada\ String\ es\ una\ palabra\ \r\n\ \ \ \ \ \ \ \ \ \ que\ escribi\u00F3\ el\ usuario\r\n
+numComments=3
