@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=LectorDeEntrada
-comment0.text=\r\n\ LectorDeEntrada\ lee\ el\ texto\ escrito\ en\ el\ terminal\ de\ texto\ estandar.\r\n\ El\ texto\ tipeado\ es\ dividido\ en\ palabras,\ y\ se\ provee\ un\ set\ de\ palabras.\r\n\ \r\n\ @author\ \ \ \ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ \ \ \ 1.0\r\n
+comment0.text=\r\n\ LectorDeEntrada\ lee\ el\ texto\ escrito\ en\ el\ terminal\ de\ texto\ estandar.\r\n\ El\ texto\ tipeado\ es\ dividido\ en\ palabras,\ y\ se\ provee\ un\ set\ de\ palabras.\r\n\ \r\n\ @author\ \ \ \ \ 1.0\r\n
 comment1.params=
 comment1.target=LectorDeEntrada()
 comment1.text=\r\n\ Crea\ un\ nuevo\ LectorDeEntrada\ que\ lee\ texto\ desde\ el\ terminal\ de\ texto.\r\n
