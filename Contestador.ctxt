@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Contestador
-comment0.text=\r\n\ La\ clase\ Contestador\ represante\ un\ objeto\ generador\ de\ respuestas.\r\n\ Se\ lo\ usa\ para\ generar\ una\ respuesta\ autom\u00E1tica\ por\ azar\ seleccionando\ \r\n\ una\ frase\ de\ una\ lista\ predefinida\ de\ respuestas.\r\n\ \r\n\ @version\ \ \ \ 1.0\r\n\ @author\ \ \ \ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n
+comment0.text=\r\n\ La\ clase\ Contestador\ represante\ un\ objeto\ generador\ de\ respuestas.\r\n\ Se\ lo\ usa\ para\ generar\ una\ respuesta\ autom\u00E1tica\ por\ azar\ seleccionando\ \r\n\ una\ frase\ de\ una\ lista\ predefinida\ de\ respuestas.\r\n\ \r\n\ \n
 comment1.params=
 comment1.target=Contestador()
 comment1.text=\r\n\ Crea\ un\ Contestador\r\n
